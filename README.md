@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/2f4293ed-4035-475b-9eab-25b4ba285e8d" width="300">
+![YOTAM FULL SETAK🦹🏿_♂️_20241231_233137_0000](https://github.com/user-attachments/assets/844f13fd-86f2-446a-8b69-edd7f7b26b4f)
 
 ### Hi there! I'm Yotam 👋
 
