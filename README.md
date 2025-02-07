@@ -1,5 +1,4 @@
-![WhatsApp Image 2025-02-07 at 21 18 48_acdce4ed](https://github.com/user-attachments/assets/22a44182-140c-4844-a1fa-60250b187636)
-
+![YOTAM FULL SETAK🦹🏿](https://github.com/user-attachments/assets/7ca10064-6d11-4246-862a-e22ee762ca9e)
 
 ### Hi there! I'm Yotam 👋
 
