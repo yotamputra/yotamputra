@@ -1,4 +1,4 @@
-![YOTAM FULL SETAK🦹🏿_♂️_20241231_233137_0000](https://github.com/user-attachments/assets/844f13fd-86f2-446a-8b69-edd7f7b26b4f)
+![YOTAM FULL SETAK🦹🏿_♂️_20241231_233137_0000](https://github.com/user-attachments/assets/e6a049d3-e353-44f4-9f79-3969566f1ff9)
 
 ### Hi there! I'm Yotam 👋
 
