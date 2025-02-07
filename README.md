@@ -3,6 +3,8 @@
 🚀 **Full-Stack Developer | Tech Explorer**  
 💻 Passionate about building scalable web & mobile applications  
 📍 Based in Indonesia  
+![WhatsApp Image 2025-02-07 at 21 18 48_acdce4ed](https://github.com/user-attachments/assets/2f4293ed-4035-475b-9eab-25b4ba285e8d)
+
 
 ---
 
