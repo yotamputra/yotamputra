@@ -1,4 +1,4 @@
-### Hi there! I'm Aldira 👋
+### Hi there! I'm Yotam 👋
 
 🚀 **Full-Stack Developer | AI Enthusiast | Tech Explorer**  
 💻 Passionate about building scalable web & mobile applications  
@@ -39,15 +39,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Aldira's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldira&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldira&layout=compact&theme=radical)
+![Yotam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yotamputra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yotamputra&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldira)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldira)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aldira)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yotam)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yotamputra)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yotam)  
 
 ---
 
