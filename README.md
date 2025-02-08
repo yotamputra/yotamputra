@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 - 🎓 Graduated from Hacktiv8 (Full Stack JavaScript Immersive)
-- 🔧 Proficient in **TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB**
-- 🌐 Exploring **Javascript, AI integrations, and Web3**
+- 🔧 Proficient in **Javascript, Typescript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB**
+- 🌐 Exploring **Javascript, NestJS, VueJS, AI integrations, and Web3**
 
 ---
 
@@ -32,8 +32,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yotam-putra-210ab6319/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yotamputra)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yotam-putra-210ab6319/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yotamputra)  
 
 ---
 
