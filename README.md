@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 - 🎓 Graduated from Hacktiv8 (Full Stack JavaScript Immersive)
-- 🔧 Proficient in **Javascript, Typescript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB**
-- 🌐 Exploring **Javascript, NestJS, VueJS, AI integrations, and Web3**
+- 🔧 Proficient in **Javascript, Typescript, NestJs, ExpressJs, React, Next.js, Node.js, PostgreSQL, MongoDB, MySQL**
+- 🌐 Exploring **Javascript, NestJS, VueJS, AI integrations**
 
 ---
 
