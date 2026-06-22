@@ -1,4 +1,4 @@
-![YOTAM FULL SETAK🦹🏿](https://github.com/user-attachments/assets/7ca10064-6d11-4246-862a-e22ee762ca9e)
+![YOTAM FULL SETAK🦹🏿](https://github.com/yotamputra/yotamputra/blob/main/IMG_5341.JPEG)
 
 ### Hi there! I'm Yotam 👋
 
