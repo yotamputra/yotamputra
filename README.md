@@ -17,8 +17,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Elysia](https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge)
-![Go Fiber](https://img.shields.io/badge/Go_Fiber-00C7B7?style=for-the-badge&logo=gofiber&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00C7B7?style=for-the-badge&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
