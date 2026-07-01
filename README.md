@@ -1,10 +1,12 @@
 ![YOTAM FULL SETAK🦹🏿](https://github.com/yotamputra/yotamputra/blob/main/IMG_5341.JPEG)
 
-### Hi there! I'm Yotam 👋
+### ▰ yotamputra
 
-🚀 **Software Engineer ( Backend Focused ) | Tech Explorer**  
-💻 Passionate about building scalable web & mobile applications  
-📍 Based in Indonesia  
+```text
+[sys] State synchronization and high-concurrency execution.
+[ops] Designing resilient backend architecture, optimized connection pools, and event fabrics.
+[loc] ID // 0x62
+```
 
 ---
 
