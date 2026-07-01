@@ -20,4 +20,4 @@
 ---
 
 `[identity]` yotamputra  
-`[network]` [linkedin.com/in/yotam-putra](https://www.linkedin.com/in/yotam-putra-210ab6319/)  
+`[network]` [linkedin.com/in/yotam-putra](https://www.linkedin.com/in/yotam-putra-210ab6319/)
