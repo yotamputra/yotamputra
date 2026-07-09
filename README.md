@@ -1,1 +1,1 @@
-(https://github.com/yotamputra/yotamputra/blob/main/IMG_5341.JPEG)
+![BANNER](https://github.com/yotamputra/yotamputra/blob/main/IMG_5341.JPEG)
